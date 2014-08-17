@@ -1,0 +1,25 @@
+application: gcdc2013-transearch
+version: 4
+runtime: php
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /favicon\.png
+  static_files: favicon.png
+  upload: favicon\.png
+  
+- url: /dist
+  static_dir: dist
+  
+- url: /login\.php
+  script: login.php
+  
+- url: /logout\.php
+  script: logout.php  
+  
+- url: /about\.html
+  script: about.html  
+
+- url: .*
+  script: index.php

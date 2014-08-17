@@ -1,0 +1,329 @@
+﻿{
+
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "nextPage": [
+            {
+                "title": "Google Custom Search - teche",
+                "totalResults": "259000",
+                "searchTerms": "teche",
+                "count": 10,
+                "startIndex": 12,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "005539286011607860035:_vjan8vncrk"
+            }
+        ],
+        "request": [
+            {
+                "title": "Google Custom Search - teche",
+                "totalResults": "259000",
+                "searchTerms": "teche",
+                "count": 10,
+                "startIndex": 2,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "005539286011607860035:_vjan8vncrk"
+            }
+        ],
+        "previousPage": [
+            {
+                "title": "Google Custom Search - teche",
+                "totalResults": "259000",
+                "searchTerms": "teche",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "005539286011607860035:_vjan8vncrk"
+            }
+        ]
+    },
+    "context": {
+        "title": "Transearch"
+    },
+    "searchInformation": {
+        "searchTime": 0.188829,
+        "formattedSearchTime": "0.19",
+        "totalResults": "259000",
+        "formattedTotalResults": "259,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Bayou Teche - Wikipedia, the free encyclopedia",
+            "htmlTitle": "Bayou <b>Teche</b> - Wikipedia, the free encyclopedia",
+            "link": "http://en.wikipedia.org/wiki/Bayou_Teche",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The Bayou Teche is a 125-mile-long (201 km) waterway of great cultural \nsignificance in south central Louisiana in the United States. Bayou Teche was the\n ...",
+            "htmlSnippet": "The Bayou <b>Teche</b> is a 125-mile-long (201 km) waterway of great cultural <br>\nsignificance in south central Louisiana in the United States. Bayou <b>Teche</b> was the<br>\n&nbsp;<b>...</b>",
+            "cacheId": "Mgc55tWU34kJ",
+            "formattedUrl": "en.wikipedia.org/wiki/Bayou_Teche",
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Bayou_<b>Teche</b>",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bayou_Teche_and_Atchafalaya_River.jpg/220px-Bayou_Teche_and_Atchafalaya_River.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "176",
+                        "height": "264",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77YojmLYBbpHHa9MDfoPu9VgHfo7reXX8N3-2PtlC2DIw5VoNcMNDc38"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Teche Bank & Trust: Home",
+            "htmlTitle": "<b>Teche</b> Bank &amp; Trust: Home",
+            "link": "https://www.thetechebank.com/",
+            "displayLink": "www.thetechebank.com",
+            "snippet": "As a leader in the financial industry, Teche Bank and Trust offers personal and \ncommercial banking services, competitive interest rates and more to meet the ...",
+            "htmlSnippet": "As a leader in the financial industry, <b>Teche</b> Bank and Trust offers personal and <br>\ncommercial banking services, competitive interest rates and more to meet the&nbsp;<b>...</b>",
+            "cacheId": "swiejpZI7h4J",
+            "formattedUrl": "https://www.thetechebank.com/",
+            "htmlFormattedUrl": "https://www.the<b>teche</b>bank.com/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "author": "T8 Webware Web Development Web Applications Web Hosting FREEDOM8",
+                        "copyright": "© 2013 T8 Webware"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Shadows-on-the-Teche - Wikipedia, the free encyclopedia",
+            "htmlTitle": "Shadows-on-the-<b>Teche</b> - Wikipedia, the free encyclopedia",
+            "link": "http://en.wikipedia.org/wiki/Shadows-on-the-Teche",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Shadows-on-the-Teche is an historic house and garden owned and operated by \nthe National Trust for Historic Preservation. It was built in 1831-1834 for ...",
+            "htmlSnippet": "Shadows-on-the-<b>Teche</b> is an historic house and garden owned and operated by <br>\nthe National Trust for Historic Preservation. It was built in 1831-1834 for&nbsp;<b>...</b>",
+            "cacheId": "o5JpxDBPJvUJ",
+            "formattedUrl": "en.wikipedia.org/wiki/Shadows-on-the-Teche",
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Shadows-on-the-<b>Teche</b>",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Shadows_on_the_Teche,_Main_%26_Weeks_Streets,_New_Iberia_(Iberia_Parish,_Louisiana).jpg/250px-Shadows_on_the_Teche,_Main_%26_Weeks_Streets,_New_Iberia_(Iberia_Parish,_Louisiana).jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "200",
+                        "height": "211",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJflaL_j0zTP5p2GS8JG2GwbgY21tq5qHEvRn1CEeTTozp0yZ7-Rmh3RU"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Teche Elementary",
+            "htmlTitle": "<b>Teche</b> Elementary",
+            "link": "http://saintmartinschools.org/te_home",
+            "displayLink": "saintmartinschools.org",
+            "snippet": "School (Teche) spirit sweatshirts may also be worn. SPIRIT SHIRTS: School \napproved Teche spirit shirt may be worn on Fridays. COATS AND JACKETS: \nCoats ...",
+            "htmlSnippet": "School (<b>Teche</b>) spirit sweatshirts may also be worn. SPIRIT SHIRTS: School <br>\napproved <b>Teche</b> spirit shirt may be worn on Fridays. COATS AND JACKETS: <br>\nCoats&nbsp;<b>...</b>",
+            "cacheId": "VrhPgEWhNd0J",
+            "formattedUrl": "saintmartinschools.org/te_home",
+            "htmlFormattedUrl": "saintmartinschools.org/te_home",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://saintmartinschools.org/piclib/5674.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "180",
+                        "height": "180",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsfC0OHuKY5RaX03KK4ZYZhbJKeicS--Ua1f9W5i_A3QPF_Ld-sam66I"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "rating": "General",
+                        "distribution": "Global",
+                        "author": "Firefly Digital, Inc., www.firefly.cc, 800-397-1624",
+                        "reply-to": "meta@saintmartinschools.org"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bayou Teche Brewing: Home",
+            "htmlTitle": "Bayou <b>Teche</b> Brewing: Home",
+            "link": "http://bayoutechebrewing.com/",
+            "displayLink": "bayoutechebrewing.com",
+            "snippet": "Bayou Teche Biere ... the biggest blessing for my family since we started Bayou \nTeche Brewing is all of the cool new friends we have made in the last two years.",
+            "htmlSnippet": "Bayou <b>Teche</b> Biere <b>...</b> the biggest blessing for my family since we started Bayou <br>\n<b>Teche</b> Brewing is all of the cool new friends we have made in the last two years.",
+            "cacheId": "N7m_roWhB2sJ",
+            "formattedUrl": "bayoutechebrewing.com/",
+            "htmlFormattedUrl": "bayou<b>teche</b>brewing.com/",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://bayoutechebrewing.com/wp-content/uploads/2012/01/featured-image-5.png"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "363",
+                        "height": "139",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSagNZhpkhtCT6q-I0fSoB3jRTSnRlWGGRYrNDvA3T2-34Ze_CdybXAhQoH"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bayou Teche National Wildlife Refuge",
+            "htmlTitle": "Bayou <b>Teche</b> National Wildlife Refuge",
+            "link": "http://www.fws.gov/bayouteche/",
+            "displayLink": "www.fws.gov",
+            "snippet": "Oct 17, 2013 ... This is the Bayou Teche National Wildlife Refuge home page. It is accessible \nfrom all the pages in the Southeast Louisiana (SELA) Refuges ...",
+            "htmlSnippet": "Oct 17, 2013 <b>...</b> This is the Bayou <b>Teche</b> National Wildlife Refuge home page. It is accessible <br>\nfrom all the pages in the Southeast Louisiana (SELA) Refuges&nbsp;<b>...</b>",
+            "cacheId": "Ipohbb5AT7MJ",
+            "formattedUrl": "www.fws.gov/bayouteche/",
+            "htmlFormattedUrl": "www.fws.gov/bayou<b>teche</b>/",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.fws.gov/bayouteche/_images/bayou_teche_NWR_3.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2cpzuCOQRrkv7WNOIzT8adLZozKDI5hrUsejgF9EsQxu4ODcN2W5TiYrP"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Teche Electric Supply - The Electrician's Superstore",
+            "htmlTitle": "<b>Teche</b> Electric Supply - The Electrician&#39;s Superstore",
+            "link": "http://www.teche-electric.com/",
+            "displayLink": "www.teche-electric.com",
+            "snippet": "We are Teche Electric Supply...and this is our vision. We are working together for \na brighter tomorrow...for Teche Electric Supply, its employees, and its ...",
+            "htmlSnippet": "We are <b>Teche</b> Electric Supply...and this is our vision. We are working together for <br>\na brighter tomorrow...for <b>Teche</b> Electric Supply, its employees, and its&nbsp;<b>...</b>",
+            "cacheId": "CuewXJDIQxEJ",
+            "formattedUrl": "www.teche-electric.com/",
+            "htmlFormattedUrl": "www.<b>teche</b>-electric.com/",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.teche-electric.com/images/home_graphic_new.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "210",
+                        "height": "157",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRX_6dLGCOf_N7cu4JKKRV4HtfKmIUQJI-KRS28cC23Bkiby9ROjjm3gV2k"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Shadows-on-the-Teche | Celebrating 50 years as a National Trust ...",
+            "htmlTitle": "Shadows-on-the-<b>Teche</b> | Celebrating 50 years as a National Trust <b>...</b>",
+            "link": "http://shadowsontheteche.wordpress.com/",
+            "displayLink": "shadowsontheteche.wordpress.com",
+            "snippet": "A white-columned brick building constructed between 1831 and 1834 by sugar \nplanter David Weeks and his wife with a shop and information on programs, tours\n ...",
+            "htmlSnippet": "A white-columned brick building constructed between 1831 and 1834 by sugar <br>\nplanter David Weeks and his wife with a shop and information on programs, tours<br>\n&nbsp;<b>...</b>",
+            "cacheId": "0zXrz75mdSUJ",
+            "formattedUrl": "shadowsontheteche.wordpress.com/",
+            "htmlFormattedUrl": "shadowsonthe<b>teche</b>.wordpress.com/",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://shadowsontheteche.files.wordpress.com/2009/06/front.png?w=600&h=463"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "256",
+                        "height": "197",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp3yjIcSBQDelLJMc8qSt4_glxlbeBCr8ectJtUGZVd1kYmPT-BELjtfs"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "blog",
+                        "og:title": "Shadows-on-the-Teche",
+                        "og:description": "Celebrating 50 years as a National Trust Historic Site",
+                        "og:url": "http://shadowsontheteche.wordpress.com/",
+                        "og:site_name": "Shadows-on-the-Teche",
+                        "og:image": "http://wordpress.com/i/blank.jpg?m=1383295312g",
+                        "twitter:site": "@wordpressdotcom",
+                        "twitter:image": "http://shadowsontheteche.files.wordpress.com/2009/06/front.png?w=240",
+                        "twitter:card": "summary",
+                        "fb:app_id": "249643311490",
+                        "article:publisher": "https://www.facebook.com/WordPresscom",
+                        "application-name": "Shadows-on-the-Teche",
+                        "msapplication-window": "width=device-width;height=device-height",
+                        "msapplication-tooltip": "Celebrating 50 years as a National Trust Historic Site",
+                        "msapplication-task": "name=Subscribe;action-uri=http://shadowsontheteche.wordpress.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico",
+                        "title": "Shadows-on-the-Teche | Shadows-on-the-Teche on WordPress.com"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tour Du Teche",
+            "htmlTitle": "Tour Du <b>Teche</b>",
+            "link": "http://www.tourduteche.com/",
+            "displayLink": "www.tourduteche.com",
+            "snippet": "Breaux Bridge – This year, the Great Bayou Teche Dog Paddle, Saturday, Nov. 9, \nwill be a race for kayaks and canoes as well as a fund-raiser for St. Martin ...",
+            "htmlSnippet": "Breaux Bridge – This year, the Great Bayou <b>Teche</b> Dog Paddle, Saturday, Nov. 9, <br>\nwill be a race for kayaks and canoes as well as a fund-raiser for St. Martin&nbsp;<b>...</b>",
+            "cacheId": "9t9oaOsRtCEJ",
+            "formattedUrl": "www.tourduteche.com/",
+            "htmlFormattedUrl": "www.tourdu<b>teche</b>.com/"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Teche Action Clinic | South Louisiana's Primary Care Medical Home",
+            "htmlTitle": "<b>Teche</b> Action Clinic | South Louisiana&#39;s Primary Care Medical Home",
+            "link": "http://www.tabhealth.org/",
+            "displayLink": "www.tabhealth.org",
+            "snippet": "The Mission of Teche Action Board, Inc. is to continually improve its ability to \nidentify and eliminate the unique health disparities of the residents of St. Mary, St.",
+            "htmlSnippet": "The Mission of <b>Teche</b> Action Board, Inc. is to continually improve its ability to <br>\nidentify and eliminate the unique health disparities of the residents of St. Mary, St.",
+            "cacheId": "JhRDXsnHl1wJ",
+            "formattedUrl": "www.tabhealth.org/",
+            "htmlFormattedUrl": "www.tabhealth.org/",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http://www.tabhealth.org/images/interior/homepageRotation/photo_1.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "251",
+                        "height": "200",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdBKrKlhr2OlEYAy5qPNxe4bqdcZBDJ3k0ANBz8gk3ULUvxwWd-DpqCaQ"
+                    }
+                ]
+            }
+        }
+    ]
+
+}
