@@ -1,5 +1,5 @@
 application: gcdc2013-transearch
-version: 4
+version: 1
 runtime: php
 api_version: 1
 threadsafe: yes

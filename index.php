@@ -30,7 +30,7 @@
     <![endif]-->
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Transearch - Adding a New Dimension to Search</title>
+<title>Jutap - Adding a New Dimension to Search</title>
 </head>
 
 <body>
@@ -47,7 +47,7 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="/"><img src="dist/trans_alt.png" alt="TranSearch" /></a></li>
+            <li><a href="/"><img src="dist/trans_alt.png" alt="Jutap" /></a></li>
           </ul>
 		  		<form action="<?php echo $_SERVER['PHP_SELF'];?>" method="get" class="navbar-collapse collapse" >
 		  <div class="form-alt">
@@ -120,10 +120,10 @@
 	</p>
 		 <div id="footer">
       <div class="container">
-        <p class="text-muted credit">&copy; 2014 Transearch &middot; Powered By <img src="dist/custom_search.gif" alt="Google Custom Search" /> and <img src="dist/google_translate.jpg" alt="Google Translate" />.
+        <p class="text-muted credit">&copy; 2014 Jutap &middot; Powered By <img src="dist/custom_search.gif" alt="Google Custom Search" /> and <img src="dist/google_translate.jpg" alt="Google Translate" />.
 		<span class="navbar-right">
 		<a href="https://plus.google.com/110722114430930281342" title="+1 Us" target="_blank"><img src="dist/google_plus.jpg" alt="Google Plus" /></a>
-		<a href="http://facebook.com/liketransearch" title="Like Us on Facebook" target="_blank"><img src="dist/facebook.jpg" alt="Facebook" /></a>
+		<a href="http://facebook.com/jutapdotcom" title="Like Us on Facebook" target="_blank"><img src="dist/facebook.jpg" alt="Facebook" /></a>
 		</span>
 		</p>
       </div>
@@ -166,7 +166,7 @@
     <![endif]-->
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Transearch - Adding a New Dimension to Search</title>
+<title>Jutap - Adding a New Dimension to Search</title>
 </head>
 
 <body>
@@ -194,7 +194,7 @@
 
       <!-- Main component for a primary marketing message or call to action -->
       <div class="jumbotron">
-	  <img src="dist/transearch.png" alt="TranSearch"  id="trans_logo"/>
+	  <img src="dist/transearch.png" alt="Jutap"  id="trans_logo"/>
 		<form action="<?php echo $_SERVER['PHP_SELF'];?>" method="get" >
 		  <div class="form-group">
 			<input type="text" placeholder="Search" name="query" id="query" class="form-control" />
@@ -237,10 +237,10 @@
   </div>
     <div id="footer">
       <div class="container">
-        <p class="text-muted credit">&copy; 2014 TranSearch &middot; Powered By <img src="dist/custom_search.gif" alt="Google Custom Search" /> and <img src="dist/google_translate.jpg" alt="Google Translate" />
+        <p class="text-muted credit">&copy; 2014 Jutap &middot; Powered By <img src="dist/custom_search.gif" alt="Google Custom Search" /> and <img src="dist/google_translate.jpg" alt="Google Translate" />
 		<span class="navbar-right">
 		<a href="https://plus.google.com/110722114430930281342" title="+1 Us" target="_blank"><img src="dist/google_plus.jpg" alt="Google Plus" /></a>
-		<a href="http://facebook.com/liketransearch" title="Like Us on Facebook" target="_blank"><img src="dist/facebook.jpg" alt="Facebook" /></a>
+		<a href="http://facebook.com/jutapdotcom" title="Like Us on Facebook" target="_blank"><img src="dist/facebook.jpg" alt="Facebook" /></a>
 		</span>
 		</p>
       </div>
